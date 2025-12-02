@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Larsen Bier"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematics Undergraduate at UCLA."
+  bio              : "Mathematics Undergraduate at UCLA"
   location         : "Los Angeles, CA"
-  employer         : "UCLA"
+  employer         : #"UCLA"
   uri              : # URL
   email            : "larsen.bier@gmail.com" 
 
