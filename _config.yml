@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Larsen Bier"
+description              : &description "Larsen Bier's Portfolio"
 url                      : https://larsenbier.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larsenbier/larsenbier.github.io"
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I love quantitative problem solving and puzzles, and am always excited to learn more about math, science, and engineering. I possess a repertoire of technical and laboratory skills in software, data engineering, and machine learning and AI, which I am eagerly looking forward to applying to the next interesting professional or academic challenge I encounter. Some of personal interests include game theory and AI applications to games, optimization, analysis and differential geometry, computer vision, and skiing! My profile banner is my hometown of Ketchum, Idaho.r"
   location         : "Los Angeles, CA"
-  employer         : "UCLA"
+  employer         : "UCLA | UNEMPLOYED"
   uri              : # URL
-  email            : "larsen[dot]bier[at]gmail.com" 
+  email            : "larsen.bier@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
