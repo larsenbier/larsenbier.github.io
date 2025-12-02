@@ -22,7 +22,7 @@ repository               : "larsenbier/larsenbier.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Larsen Bier"
   pronouns         : # example: "she/her"  
   bio              : "I love quantitative problem solving and puzzles, and am always excited to learn more about math, science, and engineering. I possess a repertoire of technical and laboratory skills in software, data engineering, and machine learning and AI, which I am eagerly looking forward to applying to the next interesting professional or academic challenge I encounter. Some of personal interests include game theory and AI applications to games, optimization, analysis and differential geometry, computer vision, and skiing! My profile banner is my hometown of Ketchum, Idaho.r"
