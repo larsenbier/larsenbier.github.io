@@ -1,6 +1,6 @@
 ---
 title: "Matrix Exponential Surjectivity into SO(3) and GL(n)"
-excerpt: "A short collection of proofs on convergence properties of the matrix exponential and matrix logarithm motivated by complex analysis and linear algebra."
+excerpt: "A short collection of proofs on convergence properties of the matrix exponential and matrix logarithm motivated by complex analysis and linear algebra. Includes a discussion of the surjectivity of the map in two key scenarios."
 collection: portfolio
 paperurl: 'http://larsenbier.github.io/files/MATH 110B Paper'
 ---
