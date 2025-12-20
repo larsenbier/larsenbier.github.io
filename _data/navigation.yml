@@ -8,12 +8,7 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV/Resume"
     url: /cv/
     
-  - title: "Miscellaneous"
-    url: /misc/
