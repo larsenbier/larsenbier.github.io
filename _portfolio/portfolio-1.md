@@ -1,6 +1,6 @@
 ---
 title: "Connect4 Monte Carlo Search Agent"
-excerpt: "A Monte Carlo tree search basd AI for playing the board game Connect4. Includes an ASCII game representation for playing against the AI. 1<br/><img src='/images/500x300.png'>"
+excerpt: "A Monte Carlo tree search basd AI for playing the board game Connect4. Includes an ASCII game representation for playing against the AI. <br/><img src='/images/Connect4.png'>"
 collection: portfolio
 ---
 
