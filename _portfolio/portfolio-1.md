@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Connect4 Monte Carlo Search Agent"
+excerpt: "A Monte Carlo tree search basd AI for playing the board game Connect4. Includes an ASCII game representation for playing against the AI. $\mathbb{Y}$ 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
