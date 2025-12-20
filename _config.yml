@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Larsen Bier"
 description              : &description "Larsen Bier's Portfolio"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Larsen Bier"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematics Undergraduate at UCLA"
+  bio              : "UCLA, B.S. in Mathematics"
   location         : "Los Angeles, CA"
   employer         : #"UCLA"
   uri              : # URL
