@@ -4,9 +4,9 @@ excerpt: "A Monte Carlo tree search basd AI for playing the board game Connect4.
 collection: portfolio
 ---
 
-[GitHub]([./Cases_of_Surjectivity_of_the_Matrix_Exponential__MATH_110B_Paper.pdf](https://github.com/larsenbier/Connect4-Monte-Carlo-Tree-Search))
+[GitHub](https://github.com/larsenbier/Connect4-Monte-Carlo-Tree-Search))
 
-*Paper written as part of Math 110B: Group Theory at UCLA.*
+* Project Completed Independently
 
-**Project:** A short extra credit paper proving properties of the matrix exponential, including the surjectivity of $\text{exp}:M_{n\times n}(\mathbb{C})\rightarrow\mathbf{GL}_n(\mathbb{C})$ and $\text{exp}:so(3)\rightarrow\mathbf{SO}(3)$. The motivation was to do an independent study of Matrix Lie Groups. The paper is a showcase of my proofwriting and technical writing.
+Using Monte Carlo Tree Search, we achieve high-performance on generalized Connect4 against a human player. The environment, game, and search AI are all coded in python, including an interactive UI that enables a human to change the AI's skill level and play against it. The UI only allows for traditional Connect4, however the underlying implementations allows for playing on a board of size n x m with the goal of connecting k chips.
 
