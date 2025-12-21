@@ -16,5 +16,5 @@ you will find a list of some of the projects I have undertaken beyond typical co
 
 Here is photo of my dog, Sugar!
 
-![My most recent dog, Sugar](/images/sugar.jpg)
+<img src="/images/sugar.jpg" alt="Alt Text" width="300">
 
