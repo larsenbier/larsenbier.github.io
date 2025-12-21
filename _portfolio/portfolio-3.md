@@ -3,7 +3,7 @@ title: "Abstract Polynomial Python Toolkit"
 excerpt: "A Python module to perform a wide variety of operations on polynomials with coefficients in rings/fields beyond the real numbers."
 collection: portfolio
 type: "Talk"
-date: 2024-12-01
+date: 2024-12-02
 ---
 
 [GitHub](https://github.com/larsenbier/PyPolynomials)
