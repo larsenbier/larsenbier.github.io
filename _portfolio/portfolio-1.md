@@ -1,8 +1,7 @@
 ---
 title: "Connect4 Monte Carlo Search Agent"
 excerpt: "A Monte Carlo tree search basd AI for playing the board game Connect4. Includes an ASCII game representation for playing against the AI."
-collection: talks
-date: 2025-12-13
+collection: portfolio
 ---
 
 [GitHub](https://github.com/larsenbier/Connect4-Monte-Carlo-Tree-Search)
