@@ -16,7 +16,7 @@ Education
 Work Experience
 ======
 ### Computer Vision Researcher (REU Under NSF SBIR Grant)
-EPI Imaging, Palo Alto, CA
+EPI Imaging, Palo Alto, CA 
 
 *Jun ‘25– Sep ‘25* 
 *	Developed statistical algorithms to test and evaluate 3D depth camera calibrations on raw data.
