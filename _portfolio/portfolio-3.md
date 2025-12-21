@@ -1,7 +1,8 @@
 ---
 title: "Abstract Polynomial Python Toolkit"
-excerpt: "A Python module to perform a wide variety of operations on polynomials with coefficients in rings/fields beyond the real numbers. This project was inspired by my first course in abstract algebra."
+excerpt: "A Python module to perform a wide variety of operations on polynomials with coefficients in rings/fields beyond the real numbers."
 collection: portfolio
+type: "Talk"
 date: 2024-12-01
 ---
 
