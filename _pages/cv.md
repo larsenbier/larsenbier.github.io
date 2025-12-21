@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: github.com/larsenbier/larsenbier.github.io/files/Larsen_Bier_Resume_AcademicEng.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
