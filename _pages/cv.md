@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: github.com/larsenbier/larsenbier.github.io/files/Larsen_Bier_Resume_AcademicEng.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Matematics, UCLA , 2025
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Computer Vision Researcher (REU Under NSF SBIR Grant)
+EPI Imaging, Palo Alto, CA
+Jun ‘25– Sep ‘25
+•	Developed statistical algorithms to test and evaluate 3D depth camera calibrations on raw data.
+•	Trained a ResNet classifier to discriminate between empty and connected cable ports with >95% accuracy.
+•	Automated simulations of EPI’s cameras in Blender to remove human transcription errors in experiments.
+•	Ran experiments to benchmark the localization quality of RealSense cameras for robotic cable manipulation.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Economic Analyst Intern
+Sun Valley Economic Development, Ketchum, ID	
+Jun ‘24 – Sep ‘24
+•	Interfaced Excel storage with Python to automate collection and cleaning of 100% of our Census data.
+•	Developed and ensembled 7 segmented Excel models to analyze monthly tourism in Sun Valley.
+•	Crafted visualizations and engineered data from 15+ independent sources to compile Economic Reports
+
+Data Science Intern 
+Chipotle Mexican Grill, Inc., Newport Beach, CA	
+Jun ‘23 – Aug ‘23
+•	Leveraged multivariate linear regression in Python to analyze the financial impact of precipitation on sales.
+•	Developed a scalable pipeline to query millions of rows of data from 500+ stores in SQL.
+•	Cleaned and documented 3,000+ lines of employees’ code to enhance its clarity and usability.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Python, SQL, MATLAB, C++.
+* Technologies: LaTeX, Robot Operating System (ROS), Git, Command Line, Blender, Excel, PowerPoint, MS Office Suite.
+* Technical Skills: Image Processing, Computer Vision, Pytorch, Scikit-Learn, Pandas, Matplotlib, Data Visualization/Analysis, Data Engineering, Machine Learning, Statistical Analysis, Optimization.
+* Other: Spanish (Fluent), Teaching.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Math Instructor
+Olga Radko Endowed Math Circle, UCLA Math Department, Los Angeles
+Jan ‘25– Jun ‘25
+•	Taught modern college-level math to groups of 20+ highly gifted students.
+•	Wrote lesson plans and solvable, yet nontrivial problems to sharpen students’ proof-writing skills.
+
