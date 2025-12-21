@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 This website hosts my project portfolio, CV, and links to my relevant social media accounts.
 Use the navigation bar at the top of the screen to view the pages of my website.
 Use the sidebar to access related websites.
 
 I recently graduated from UCLA with a BS in Mathematics and a minor in data science engineering. In the portfolio section,
 you will find a list of some of the projects I have undertaken beyond typical coursework or my professional work.
+
+
 
