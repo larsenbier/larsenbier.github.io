@@ -16,5 +16,5 @@ you will find a list of some of the projects I have undertaken beyond typical co
 
 Here is photo of my favorite Aussie, Sugar!
 
-<img src="/images/sugar.jpg" alt="Alt Text" width="450">
+<img src="/images/sugar.jpg" alt="Alt Text" width="375">
 
