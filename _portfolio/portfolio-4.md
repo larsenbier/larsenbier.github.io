@@ -1,5 +1,5 @@
 ---
-title: "Durak as a Partially Observable Markov Decision Process for Endgame Playing Through Monte Carlo Tree Search"
+title: "AI for Durak Using a Partially Observable Markov Decision Process"
 excerpt: "A hybrid AI using expertly crafted heruistics for early game Durak playing and Monte Carlo Tree Search on sampled states for endgame decision-making."
 collection: portfolio
 ---
