@@ -1,6 +1,6 @@
 ---
 title: "Inception Network in PyTorch"
-excerpt: "A PyTorch implementation of the convolutional neural network debuted in the paper "Going Deeper With Convolutions""
+excerpt: "A PyTorch implementation of the convolutional neural network debuted in the paper 'Going Deeper With Convolutions'"
 collection: portfolio
 ---
 
