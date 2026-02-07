@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Matematics, UCLA , 2025
+* M.S. in Mechanical Engineering, UCLA, 2028
+* B.S. in Mathematics, UCLA , 2025
 
 Work Experience
 ======
